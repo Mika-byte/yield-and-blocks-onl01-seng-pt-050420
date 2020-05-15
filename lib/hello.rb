@@ -1,6 +1,6 @@
 names = ["Tim", "Tom", "Jim"]
 def hello_t(array)
-.each do |name|
+names.each do |name|
   puts "Hi, #{name}"
   end
 end
