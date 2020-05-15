@@ -6,7 +6,7 @@ names.each do |name|
 end
 
 
-other_names = 
-def 
+other_names = []
+def yielding(array)
 # call your method here!
 
