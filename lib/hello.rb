@@ -6,6 +6,7 @@ names.each do |name|
 end
 
 
+other_names = 
 def 
 # call your method here!
 
